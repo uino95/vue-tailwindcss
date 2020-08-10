@@ -1,4 +1,4 @@
-# chat-farmer
+# vue-tailwindcss
 
 ## Project setup
 ```
